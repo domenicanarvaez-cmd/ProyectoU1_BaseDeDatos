@@ -1,6 +1,0 @@
-codigo,direccion,tipo_trabajo,metros,precio_metro,fecha_inicio,fecha_fin_estimada,fecha_fin_real,estado,fecha_pago,numero_factura
-1,Av. Universitaria y Azuay,GYPSUM,100.00,12.00,2026-09-22,2026-09-29,2026-09-30,TERMINADA,2026-09-30,1
-2,"Barrio Época, calle Lauro Guerrero",PVC,145.00,9.00,2026-09-29,2026-10-06,2026-10-05,TERMINADA,2026-10-05,2
-3,Av. Salvador Bustamante Celi y Guayaquil,GYPSUM,200.00,11.00,2026-10-12,2026-10-26,NULL,EN_CURSO,NULL,3
-4,Calle Bolívar y Rocafuerte,PVC,150.00,9.00,2026-11-16,2026-11-23,NULL,POR_INICIAR,NULL,4
-5,"Barrio La Tebaida, calle Argentina",GYPSUM,145.00,12.00,2026-10-27,2026-11-05,2026-11-06,TERMINADA,2026-11-06,5
